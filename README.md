@@ -1,2 +1,2 @@
-c++  ile alakalı bütün küçük örnekleri ve bir adet proje barındırı.
-ebob-ekok-sayı ters basma-i-else-for-do-while-go()-to-cümledeki kelimeleri sayma-
+It contains all the small examples related to c ++ and one project.
+ebob-ekok-number reverse-i-else-for-do-while-go () - to-count words in a sentence-
